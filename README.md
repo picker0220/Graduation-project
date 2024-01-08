@@ -1,2 +1,2 @@
 # Graduation-project
-A record of a Xidianer's graduation_project from Jan.
+A record of a Xidianer's graduation-project from Jan.
